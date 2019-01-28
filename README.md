@@ -1,5 +1,5 @@
 # My Data Science Portfolio
-Adventures in Artificial Intelligence, Machine Learning, Deep Learning
+Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for Finance
 
 ## Face Generation
 [github](https://github.com/ark4innovation/datascience/tree/master/deep-learning/udacity-projects/face-generation), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/deep-learning/udacity-projects/face-generation/dlnd_face_generation.ipynb)
