@@ -3,10 +3,20 @@ Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for F
 
 ## AI in Trading
 
+### Smart Beta Portfolio and Portfolio Optimization
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/3-smart-beta-portfolio-and-portfolio-optimization), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/3-smart-beta-portfolio-and-portfolio-optimization/project_3_starter.ipynb)
+
+In this project, I built a smart beta portfolio and compared it to a benchmark index. To find out how well the smart beta portfolio did, I calculated the tracking error against the index. Subsequently I  built a portfolio by using quadratic programming to optimize the weights. I rebalanced this portfolio and calculated turn over to evaluate its performance. For the dataset, I used the end of day from Quotemedia. This project was done as part of my Udacity AI for Trading Nanodegree.
+
+### Breakout Strategy
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/2-breakout-strategy), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/2-breakout-strategy/project_2_starter.ipynb)
+
+In this project, I implemented the [breakout strategy](https://www.investopedia.com/articles/trading/08/trading-breakouts.asp), found and removed outliers and subsequently tested it to see if it has the potential to be profitable using a Histogram and P-Value. For the dataset, I used the end of day from Quotemedia. This project was done as part of my Udacity AI for Trading Nanodegree.
+
 ### Trading with Momentum
 [github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/1-trading-with-momentum), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/1-trading-with-momentum/project_1_starter.ipynb)
 
-In this project, I implemented a trading signal based on a momentum indicator and computed the signal for the time range given and applied it to the dataset to produce projected returns. Subsequently I performed statistical tests on the mean of the returns to conclude if there is alpha in the signal. For the dataset, we used the end of day returns from Quotemedia.
+In this project, I implemented a trading signal based on a momentum indicator and computed the signal for the time range given and applied it to the dataset to produce projected returns. Subsequently I performed statistical tests on the mean of the returns to conclude if there is alpha in the signal. For the dataset, I used the end of day from Quotemedia. This project was done as part of my Udacity AI for Trading Nanodegree.
 
 
 ## Deep Learning
