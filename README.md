@@ -1,7 +1,8 @@
-# My Data Science Portfolio
+# My Data Science Projects
 Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for Finance
 
 ## AI in Trading
+I completed six month AI in Trading Nanodegree from Udacity in April 2019. The following eight projects were completed as part of it.
 
 ## Backtesting
 [github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/8-backtesting/project_8_starter.ipynb), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/8-backtesting/project_8_starter.ipynb)
@@ -45,6 +46,7 @@ In this project, I implemented a trading signal based on a momentum indicator an
 
 
 ## Deep Learning
+I completed six month Deep Learning Foundations Nanodegree in August 2017. The following projects were completed as part of it.
 
 ### Face Generation
 [github](https://github.com/ark4innovation/datascience/tree/master/deep-learning/udacity-projects/face-generation), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/deep-learning/udacity-projects/face-generation/dlnd_face_generation.ipynb)
