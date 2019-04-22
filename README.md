@@ -1,6 +1,14 @@
 # My Data Science Portfolio
 Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for Finance
 
+## AI in Trading
+
+### Trading with Momentum
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/1-trading-with-momentum), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/1-trading-with-momentum/project_1_starter.ipynb)
+
+In this project, I implemented a trading signal based on a momentum indicator and computed the signal for the time range given and applied it to the dataset to produce projected returns. Subsequently I performed statistical tests on the mean of the returns to conclude if there is alpha in the signal. For the dataset, we used the end of day returns from Quotemedia.
+
+
 ## Deep Learning
 
 ### Face Generation
