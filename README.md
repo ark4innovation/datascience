@@ -4,10 +4,12 @@ Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for F
 ## AI in Trading
 
 ## Backtesting
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/8-backtesting/project_8_starter.ipynb), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/8-backtesting/project_8_starter.ipynb)
+
 In this project, I built a fairly realistic backtester that uses the Barra data. The backtester performed portfolio optimization that included transaction costs. I also implemented performance attribution to identify the major drivers of the portfolio's profit-and-loss (PnL). This project was done as part of my Udacity AI for Trading Nanodegree.
 
 ## Combining Signals for Advanced Alpha
-[github](https://github.com/ark4innovation/datascience/tree/masterai-for-trading/7-combining-signals-for-enhanced-alpha), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/masterai-for-trading/7-combining-signals-for-enhanced-alpha/project_7_starter.ipynb)
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/7-combining-signals-for-enhanced-alpha), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/7-combining-signals-for-enhanced-alpha/project_7_starter.ipynb)
 
 In this project, I combined signals on a random forest for enhanced alpha. I also implemented logic to solve the problem of overlapping samples. For the dataset, I used the end of day from Quotemedia and sector data from Sharadar. This project was done as part of my Udacity AI for Trading Nanodegree.
 
