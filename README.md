@@ -1,8 +1,8 @@
 # My Data Science Projects
 Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for Finance
 
-## AI in Trading
-I completed six month AI in Trading Nanodegree from Udacity in April 2019. The following eight projects were completed as part of it.
+## AI for Trading
+I completed six month AI for Trading Nanodegree from Udacity in April 2019. The following eight projects were completed as part of it.
 
 ## Backtesting
 [github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/8-backtesting/project_8_starter.ipynb), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/8-backtesting/project_8_starter.ipynb)
