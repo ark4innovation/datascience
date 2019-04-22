@@ -3,6 +3,29 @@ Adventures in Artificial Intelligence, Machine Learning, Deep Learning, AI for F
 
 ## AI in Trading
 
+## Backtesting
+In this project, I built a fairly realistic backtester that uses the Barra data. The backtester performed portfolio optimization that included transaction costs. I also implemented performance attribution to identify the major drivers of the portfolio's profit-and-loss (PnL). This project was done as part of my Udacity AI for Trading Nanodegree.
+
+## Combining Signals for Advanced Alpha
+[github](https://github.com/ark4innovation/datascience/tree/masterai-for-trading/7-combining-signals-for-enhanced-alpha), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/masterai-for-trading/7-combining-signals-for-enhanced-alpha/project_7_starter.ipynb)
+
+In this project, I combined signals on a random forest for enhanced alpha. I also implemented logic to solve the problem of overlapping samples. For the dataset, I used the end of day from Quotemedia and sector data from Sharadar. This project was done as part of my Udacity AI for Trading Nanodegree.
+
+## Sentiment Analysis with Neural Networks
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/6-sentiment-analysis-with-neural-networks), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/6-sentiment-analysis-with-neural-networks/project_6_starter.ipynb)
+
+In this project, I built a deep learning model to classify the sentiment of messages from StockTwits, a social network for investors and traders. The model predicted if any particular message is positive or negative. From this, I was able to generate a signal of the public sentiment for various ticker symbols. This project was done as part of my Udacity AI for Trading Nanodegree.
+
+### Natural Language Processing (NLP) on Financial Statements
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/5-nlp-on-financial-statements), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/5-nlp-on-financial-statements/project_5_starter.ipynb)
+
+In this project, I impmemented NLP Analysis on 10-k financial statements to generate an alpha factor. For the dataset, I used the end of day from Quotemedia and Loughran-McDonald sentiment word lists. This project was done as part of my Udacity AI for Trading Nanodegree.
+
+### Alpha Research and Multi-Factor Modeling
+[github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/4-alpha-research-and-factor-modeling), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/4-alpha-research-and-factor-modeling/project_4_starter.ipynb)
+
+In this project, I built a statistical risk model using PCA and used it to build a portfolio along with 5 alpha factors. I evaluated the factors using factor-weighted returns, quantile analysis, sharpe ratio, and turnover analysis. Finally I optimized the portfolio using the risk model and factors using multiple optimization formulations. For the dataset, I used the end of day from Quotemedia and sector data from Sharadar. This project was done as part of my Udacity AI for Trading Nanodegree.
+
 ### Smart Beta Portfolio and Portfolio Optimization
 [github](https://github.com/ark4innovation/datascience/tree/master/ai-for-trading/3-smart-beta-portfolio-and-portfolio-optimization), [nbviewer](http://nbviewer.jupyter.org/github/ark4innovation/datascience/blob/master/ai-for-trading/3-smart-beta-portfolio-and-portfolio-optimization/project_3_starter.ipynb)
 
